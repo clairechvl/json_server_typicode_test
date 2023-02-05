@@ -1,0 +1,25 @@
+{
+  "tokens":[
+    {
+      "id": 0,
+      "description": "NFTest",
+      "external_url": "https://github.com/clairechvl/json_server_typicode_test",
+      "image": "https://twemoji.maxcdn.com/svg/1f648.svg",
+      "name": "NFTest"
+    },
+    {
+      "id": 1,
+      "description": "NFTech",
+      "external_url": "https://github.com/clairechvl/json_server_typicode_test",
+      "image": "https://twemoji.maxcdn.com/svg/1f3eb.svg",
+      "name": "NFTech"
+    },
+    {
+      "id": 2,
+      "description": "NFT-Max",
+      "external_url": "https://github.com/clairechvl/json_server_typicode_test",
+      "image": "https://twemoji.maxcdn.com/svg/1f3cd.svg",
+      "name": "NFT-Max"
+    }
+  ]
+}
